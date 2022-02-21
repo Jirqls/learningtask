@@ -7,7 +7,7 @@
     <h1>Welcome to My Website! I am Jill Anne L. Orquiales<3</h1>
     <ul>
       <li><a href="index.php">HOME</a></li> 
-      <li><a href="LT2/Index.html">Learning Task</a></li>
+      <li><a href="file:///C:/Users/jilla/Desktop/nami%20drop/cookingrecipes.html">Learning Task 2</a></li>
     </ul>
   </body>
 </html>
