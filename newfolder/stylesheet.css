@@ -1,0 +1,106 @@
+
+#wrapper{
+    width: 2330px;
+    height: 1030px;
+    border: 1px solid black;
+    margin: 0 auto;
+    background-color:blanchedalmond;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+#box-one{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #f699cd;
+}
+#box-two{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fc94af;
+}
+#box-three{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fec5e5;
+}
+#box-four{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fe7f9c;
+}
+#box-five{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fda4ba;
+}
+#box-six{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fdab9f;
+}
+#box-seven{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fc9483;
+}
+#box-eight{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #fcbacb;
+}
+#box-nine{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #f79ac0;
+}
+#box-ten{
+    width: 400px;
+    height: 450px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    float: left;
+    background-color: #f2b8c6;
+}
+
+h1{ font-style: italic}
+h1 {font-size:69px }
+h1 {text-align: center}
+h1 {color: blanchedalmond}
