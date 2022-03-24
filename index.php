@@ -8,7 +8,8 @@
     <ul>
       <li><a href="index.php">HOME</a></li> 
       <li><a href="home.html">Learning Task</a></li>
-      <li><a href="home.html">Learning Task</a></li>
+      <li><a href="index.html">Learning Task</a></li>
+      <li><a href="index.html">Learning Task</a></li>
     </ul>
   </body>
 </html>
