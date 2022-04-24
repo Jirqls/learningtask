@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(2dad9f4143c8e57688418b5e3eabb53c.jpg);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+button{
+    align-content: center;
+    justify-content: center;
+}
